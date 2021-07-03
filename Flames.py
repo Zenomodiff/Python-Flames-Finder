@@ -86,7 +86,7 @@ def tell_status() :
 	count = len(p1_list) + len(p2_list)
 
 	# list of FLAMES acronym
-	result = ["Friends", "Love", "Affection", "Marriage", "Enemy", "Siblings"]
+	result = ["Friends", "Love", "Affection", "Marriage", "Enemy", "Siblings", "Attraction", "Lust"]
 
 	# keep looping until only one item
 	# is not remaining in the result list
